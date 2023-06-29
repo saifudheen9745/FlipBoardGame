@@ -6,6 +6,11 @@
   text-align: center;
 }
 
+.heading{
+  color: rgb(137, 137, 187);
+    text-shadow: 5px 5px 5px rgba(52, 94, 209, 0.384);
+}
+
 .container{
   display: grid;
   grid-template-columns: repeat(6,150px);
@@ -15,7 +20,7 @@
 }
 
 h1{
-  font-size: 32px;
+  font-size: 42px;
 }
 
 .flip-card {

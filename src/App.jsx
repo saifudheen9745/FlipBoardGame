@@ -100,7 +100,7 @@ function App() {
 
   return (
     <main>
-      <h1>Memmory Game in React</h1>
+      <h1 className="heading">Flip Board Game</h1>
       <div className="container">
         {pieces.map((data, index) => (
           <div
